@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS PRO",
+  "description": "Futuristic AI personal assistant with voice interaction, device actions, coding studio, terminal, and intelligent routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
